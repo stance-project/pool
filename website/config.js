@@ -1,8 +1,8 @@
-var api = 'http://poolhost.com:8117'
+var api = 'http://95.179.232.9:10429'
 
-var api_blockexplorer = 'http://daemonhost.com:11898'
+var api_blockexplorer = 'http://140.82.54.94/SNXT-explorer/'
 
-var poolHost = 'poolhost.com'
+var poolHost = '95.179.232.9'
 
 var irc = 'irc.freenode.net/#poolhost'
 
@@ -12,9 +12,9 @@ var cryptonatorWidget = ['{symbol}-BTC', '{symbol}-USD', '{symbol}-EUR']
 
 var easyminerDownload = 'https://github.com/zone117x/cryptonote-easy-miner/releases/'
 
-var blockchainExplorer = 'http://chainradar.com/{symbol}/block/{id}'
+var blockchainExplorer = 'http://140.82.54.94/SNXT-explorer/'
 
-var transactionExplorer = 'http://chainradar.com/{symbol}/transaction/{id}'
+var transactionExplorer = 'http://140.82.54.94/SNXT-explorer/'
 
 var themeCss = 'themes/default-theme.css'
 
